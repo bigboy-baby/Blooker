@@ -12,6 +12,7 @@ pip install Blooker
 
 ## Usage
 
+Flooder
 ```python
 from Blooker import bot
 
