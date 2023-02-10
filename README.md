@@ -1,6 +1,5 @@
 # Blooker
 
-Description. 
 Trash blooket flooding module
 
 ## Installation
