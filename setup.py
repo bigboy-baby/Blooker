@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="Blooker",
-    version="0.0.1",
+    version="0.0.2",
     author="Biggie",
     author_email="thugshaker@yahoo.com",
     description="Flood Blooket Games",
