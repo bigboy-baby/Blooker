@@ -32,4 +32,4 @@ for n in range(am):
 Biggie / bigboy-baby / bigboybigboi / biggie.wtf
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Shut
