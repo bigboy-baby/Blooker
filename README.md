@@ -14,8 +14,19 @@ pip install Blooker
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from Blooker import bot
+
+code = input("Game Code: ")
+name = input("Name: ")
+am = int(input("Amount: "))
+
+for n in range(am):
+    status = bot.join(code, name, "Angry Bot")
+    if status == True:
+        count+=1
+        print("Joined Game")
+    else:
+        print("Failed to Join")
 ```
 
 ## Author
