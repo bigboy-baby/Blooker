@@ -5,7 +5,7 @@ Trash blooket flooding module
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Blooket
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Blooker
 
 ```bash
 pip install Blooker
