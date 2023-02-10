@@ -23,7 +23,6 @@ am = int(input("Amount: "))
 for n in range(am):
     status = bot.join(code, name, "Angry Bot")
     if status == True:
-        count+=1
         print("Joined Game")
     else:
         print("Failed to Join")
