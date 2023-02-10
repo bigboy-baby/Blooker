@@ -1,3 +1,25 @@
 # Blooker
 
-Shity module I made for flooding Blooket games & more. I made because I figured why not since its been months since a working blooket flooder been out for the skids to use :)))
+Description. 
+Trash blooket flooding module
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Blooket
+
+```bash
+pip install Blooker
+```
+
+## Usage
+
+```python
+from package_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Biggie / bigboy-baby / bigboybigboi / biggie.wtf
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
