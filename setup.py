@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="Blooker",
-    version="0.0.4",
+    version="0.0.5",
     author="Biggie",
     author_email="thugshaker@yahoo.com",
     description="Flood Blooket Games",
@@ -13,6 +13,6 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/bigboy-baby/",
     packages=find_packages(),
-    install_requires=['requests','websocket'],
+    install_requires=['requests','websocket-client'],
     python_requires='>=3',
 )
