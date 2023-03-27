@@ -28,6 +28,10 @@ for n in range(am):
         print("Failed to Join")
 ```
 
+## Features
+Current Features (More to Come):
+-Spammer
+
 ## Author
 Biggie / bigboy-baby / bigboybigboi / biggie.wtf
 
